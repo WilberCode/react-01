@@ -3,14 +3,15 @@ import './styles/styles.scss';
 // import Curso from './components/Curso';
 import Banner from './components/Banner';
 import Form from './components/Form';
+import ProgressCircle from './components/Progress';
 
 
 
 const App = ()=> (
   <>
     <Banner/>  
-    <Form/> 
-    
+    <Form/>  
+    <ProgressCircle /> 
   </>
   );
 

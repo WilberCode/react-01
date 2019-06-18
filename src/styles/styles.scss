@@ -2,3 +2,15 @@
 @import "~edteam-style-guides/edteam-style-guides";
  
  
+.space{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 50em;
+    &-container{ 
+        height: 50px;
+        width: 50px;
+      
+    }
+   
+}
