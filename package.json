@@ -8,7 +8,7 @@
     "ed-grid": "^2.8.1",
     "edteam-style-guides": "^0.0.55",
     "gh-pages": "^2.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-circular-progressbar": "^2.0.1",
